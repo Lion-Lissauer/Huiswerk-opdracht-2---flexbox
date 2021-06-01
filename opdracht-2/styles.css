@@ -1,0 +1,33 @@
+.one {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.two {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.three {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+    }
+
+.four {
+    display: flex;
+    flex: auto;
+    list-style: none;
+}
+
+.five {
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+}
+.h3 {
+    flex-wrap: wrap-reverse;
+}
+
